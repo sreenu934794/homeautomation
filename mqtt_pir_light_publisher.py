@@ -3,9 +3,9 @@ import time
 import paho.mqtt.client as mqtt
 
 # ===== REQUIRED FIELDS =====
-student_name = "YOUR FULL NAME"
-unique_id = "YOUR REGISTER NUMBER"
-topic_base = "home/YOURNAME-2025/sensor"   # replace YOURNAME
+student_name = "Sreenivasulu"
+unique_id = "42732074"
+topic_base = "home/sreenu-2025/sensor"   # replace YOURNAME
 
 broker = "localhost"
 port = 1883
